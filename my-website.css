@@ -109,7 +109,7 @@ footer {
 }
 
 .place-indent {
-  padding-left: 25px;
+  width: 100%;
 }
 
 form.comment-info {
